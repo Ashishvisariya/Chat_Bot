@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+chat_history.db
+*.sqlite
+*.sqlite3
+.DS_Store
